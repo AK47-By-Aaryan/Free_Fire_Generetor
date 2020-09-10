@@ -7,6 +7,11 @@
 
 		<title>Free Fire Generator - Unlimited Diamonds & Coins 2020</title>
 
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
+
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
 		<meta name="description" content="Unlimited free fire diamonds instantly into your account, use our free fire hack tool to generate ff diamonds, our free fire generator is secure & super easy to use." />
