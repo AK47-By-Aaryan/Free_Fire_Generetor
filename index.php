@@ -191,7 +191,7 @@
 
 										<div id="proc-btn-1" class="s-btn">
 
-											<span>Connect</span>
+											<span onclick="gtag()">Connect</span>
 
 										</div>
 
