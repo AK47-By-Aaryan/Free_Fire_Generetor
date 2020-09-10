@@ -1,1 +1,1 @@
-# Free_Fite_Generetor
+# Free_Fire_Generetor
